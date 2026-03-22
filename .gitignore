@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.exe~
+*.out
+
+# Go build directories
+/bin/
+pkg/
+
+# Dependency directories
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
